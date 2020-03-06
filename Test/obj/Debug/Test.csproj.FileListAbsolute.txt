@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\gitTest02\Test\bin\Debug\Test.exe.config
+C:\Users\user\Desktop\gitTest02\Test\bin\Debug\Test.exe
+C:\Users\user\Desktop\gitTest02\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\gitTest02\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\gitTest02\Test\obj\Debug\Test.exe
+C:\Users\user\Desktop\gitTest02\Test\obj\Debug\Test.pdb
